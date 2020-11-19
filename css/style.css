@@ -15,3 +15,7 @@ body {
 #container h1{
     font-size: 20px;
 }
+
+#cabecera{
+    background-color: red;
+}
